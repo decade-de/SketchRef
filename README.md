@@ -8,7 +8,7 @@ This repository is the official repository of SketchRef, a  multi-task evaluatio
 
 ## Download
 
-The dataset can be downloaded from
+The dataset can be downloaded from https://drive.google.com/file/d/1Ok3Vybsu_LHylKyrOuIcTFhFq19-Yuos/view?usp=sharing
 
 
 
