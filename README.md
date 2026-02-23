@@ -1,4 +1,4 @@
-# SketchRef: a Multi-Task Evaluation Benchmark for Sketch Synthesis
+# SketchRef: a Multi-Task Evaluation Benchmark for Sketch Synthesis (ICME 2025)
 
 ## Introduction
 
